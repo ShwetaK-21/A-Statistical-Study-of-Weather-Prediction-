@@ -15,5 +15,5 @@
 ## Summary :
   This project aims to predict weather conditions using a dataset containing various parameters such as temperature, wind speed, humidity, and atmospheric pressure. The dataset includes information about the country, location name, timezone, last updated time, and weather conditions in text format. The project involves preprocessing the data, exploring feature engineering techniques, and utilizing both time series analysis methods like ARIMA modeling and machine learning approaches like ordinal logistic regression. The goal is to provide accurate and reliable weather forecasts that can be used for decision-making purposes in various industries and applications.
 
-## Version of jupyter :
+## Version of jupyter Notebook :
     <function python_version at 0x000001F1FA7D08B0>
