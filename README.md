@@ -9,8 +9,9 @@
 
 ## Problem Statement :
   1. Correlation Analysis : Explore relationship between different weather parameters to understand how they influence each other.
-  2. Predicting Weather Conditions: The primary objective is to utilize ordinal logistic regression to predict categorical weather conditions (e.g.,Clear, Fog, Mist, etc,) based on relevant predictor variables such as visibility_km, pressure_in, wind_kph etc.
-  3. To develop a model, that will provide future weather prediction.
+  2. To build a ordinal Logistic Regression model to predict weather prediction.
+  3. to fit ARIMA model to the weather data.
+  4. To predict future 10 days Temperature(Celsius)  in Delhi by using ARIMA model.
 
 ## Summary :
   This project aims to predict weather conditions using a dataset containing various parameters such as temperature, wind speed, humidity, and atmospheric pressure. The dataset includes information about the country, location name, timezone, last updated time, and weather conditions in text format. The project involves preprocessing the data, exploring feature engineering techniques, and utilizing both time series analysis methods like ARIMA modeling and machine learning approaches like ordinal logistic regression. The goal is to provide accurate and reliable weather forecasts that can be used for decision-making purposes in various industries and applications.
